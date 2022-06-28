@@ -1,0 +1,6 @@
+org\example\Producto.class
+org\example\MyUI.class
+org\example\MyUI$MyUIServlet.class
+org\example\TestInventario.class
+org\example\Inventario.class
+org\example\GeneradorEAN13.class
